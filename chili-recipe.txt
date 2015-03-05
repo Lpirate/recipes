@@ -1,5 +1,5 @@
 Ingredients:
- - 8 local change, nothing else
+ - merge changes oneline and offline
  - 2 pounds ground beef
  - 2 cloves garlic, chopped
  - One 8-ounce can tomato sauce
